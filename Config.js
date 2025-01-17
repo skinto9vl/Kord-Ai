@@ -4,7 +4,7 @@ global.settings = {
   OWNER_NUMBERS: "2347048825904", // your number with country code
   OWNER_NAME: 'Skinto', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'kord_ai-PPkitTJiBYSr', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-mMTc36tdjJJb', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
