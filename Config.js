@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "2349067339193", // your number with country code
-  OWNER_NAME: 'Miracle', // your owner name 
+  OWNER_NUMBERS: "2347048825904", // your number with country code
+  OWNER_NAME: 'Skinto', // your owner name 
   BOT_NAME: "KORD", // your preferred bot name
-  SESSION_ID: 'your_sessionid', // replace your_sessionid with yours and make sure its inside rhe quotes
+  SESSION_ID: 'kord_ai-PPkitTJiBYSr', // replace your_sessionid with yours and make sure its inside rhe quotes
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "Public",
   TIME_ZONE: "Africa/Lagos",
@@ -19,18 +19,18 @@ global.settings = {
   MAX_COMMANDS_PER_MINUTE: 100,
   MAX_DOWNLOAD_SIZE: 100,
   AUTO_LIKE_STATUS: true,
-  AUTO_LIKE_EMOJI: '🍁',
+  AUTO_LIKE_EMOJI: '🔅',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "OPAY", // the name of your preferred bank
+    acc_number: "8055981597", // account number for your preferred bank
+    acc_name: "EMMANUEL OLUWATOBI" // name of your bank
   },
   /* You can also replace the numbers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
     OPENWEATHERMAP_API_KEY: ''
   },
   isHackEnable: true,
-  SAFE_SEARCH: true,
+  SAFE_SEARCH: false,
   REJECT_CALLS: true,
   SEND_WELCOME_MESSAGE: false,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
