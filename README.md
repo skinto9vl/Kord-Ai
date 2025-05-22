@@ -37,7 +37,7 @@
 ---
 
 1. Get `SESSION ID`
-- Web: [Click Here](https://session.kordai.us.kg)
+- Web: [Click Here](https://session.kordai.biz.id/)
 - Telegram Bot: [Click Here](https://t.me/kpair_bot)
 - Any one of the links above can be used
 
