@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: '2348160247341', // replace with your number with country code
-  OWNER_NAME: 'シ', // you owner name 
+  OWNER_NUMBERS: '2347048825904', // replace with your number with country code
+  OWNER_NAME: 'ㅤᵈᵃʳᵏ⸸ᵏʳᵃᵛᵉⁿㅤ弔', // you owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the ''
+  SESSION_ID: 'kord_ai-waFhcQGsvQU4', // replace your_sessionid with yours and make sure its inside the ''
   INVINCIBLE_MODE: false, // toogle invincible mode 
   WORK_MODE: "public",
   TIME_ZONE: "Africa/Lagos",
@@ -12,9 +12,9 @@ global.settings = {
   READ_ALL_MESSAGES: false, //commands are marked read
   AUTO_READ_STATUS: true,
   LOG_MESSAGES_AT_CONSOLE: false,
-  PREFIX: ["."], 
-  REJECT_CALLS: false,
-  GROUP_EVENTS: true,
+  PREFIX: ["-"], 
+  REJECT_CALLS: true,
+  GROUP_EVENTS: false,
   DEFAULT_TRANSLATION_LANG: "en",
   VV_CMD: "📥",
   COMMAND_COOLDOWN_TIME_IN_MS: 0.01,
@@ -23,16 +23,16 @@ global.settings = {
   AUTO_LIKE_STATUS: true,
   AUTO_LIKE_EMOJI: '🫆',
   BANKING_DETAILS: {
-    bank: "Kord-Ai Bank", // the name of your preferred bank
-    acc_number: "1234567890", // account number for your preferred bank
-    acc_name: "MyAccountName" // name of your bank
+    bank: "opay", // the name of your preferred bank
+    acc_number: "8055981597", // account number for your preferred bank
+    acc_name: "Emmanuel" // name of your bank
   },
   /* You can also replace the numkord_ai-Cc2TYTL6Tkf2bers with your addresses if you're using crypto, a command for this will come soon. */
   API_KEYS: {
     OPENWEATHERMAP_API_KEY: ''
   },
   isHackEnable: true,
-  SAFE_SEARCH: true,
+  SAFE_SEARCH: false,
   REJECT_CALLS: false,
   SEND_WELCOME_MESSAGE: false,
   WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
@@ -44,6 +44,6 @@ global.settings = {
   ANTI_PM_SPAM_COUNT: 6,
   AUTO_TYPING: false, // if you wnat the bot to be typing always 
   AUTO_RECORDING: false, //if you want the bot to be recording always
-  ALWAYS_ONLINE: false,
+  ALWAYS_ONLINE: true,
 
 };
