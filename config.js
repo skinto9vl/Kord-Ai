@@ -3,13 +3,13 @@ const { existsSync } = require('fs')
 if (existsSync('config.env')) require('dotenv').config({ path: './config.env' })
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || '',
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "2349067339193",
+    SESSION_ID: process.env.SESSION_ID || 'kord_ai-awUzXcde1E8l',',
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "2347048825904",
     WORKTYPE: process.env.WORKTYPE || "private",
-    PREFIX: process.env.PREFIX || "[.]",
+    PREFIX: process.env.PREFIX || "[-]",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || true,
     MONGODB_URI: process.env.MONGODB_URI || "",
-    STATUS_VIEW: process.env.STATUS_VIEW || true,
+    STATUS_VIEW: process.env.STATUS_VIEW || false,
     SAVE_STATUS: process.env.SAVE_STATUS || false,
     ERROR_MSG: process.env.ERROR_MSG || true,
     TIMEZONE: process.env.TIMEZONE || "Africa/Lagos",
@@ -19,7 +19,7 @@ module.exports = {
     BOT_PRESENCE: process.env.BOT_PRESENCE || "available", // for online, "composing" for typing 
     REACT: process.env.REACT || false,
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
-    OWNER_NAME: process.env.OWNER_NAME || "Mirage",
+    OWNER_NAME: process.env.OWNER_NAME || "skinto",
     BOT_NAME: process.env.BOT_NAME || "Kord",
     RENDER_API_KEY: process.env.RENDER_API_KEY,
     ANTIDELETE: process.env.ANTIDELETE || "on",
